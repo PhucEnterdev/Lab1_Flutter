@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## RESULT
-<img src="C:\Users\PHUC\Desktop\card1.png"/>
-<img src="C:\Users\PHUC\Desktop\card2.png"/>
-<img src="C:\Users\PHUC\Desktop\card3.png"/>
+![](C:\Users\PHUC\Desktop\card1.png)
+![](C:\Users\PHUC\Desktop\card2.png)
+![](C:\Users\PHUC\Desktop\card3.png)
 
